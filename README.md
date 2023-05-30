@@ -1,4 +1,9 @@
-### Hi there 👋
+### <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9&height=280&section=header&animation=fadeIn&text=Hello%20there,%20Welcome!&fontSize=30" />
+- 🌱 I’m currently learning advanced SQL and Python
+- 💬 Ask me about Data Analytics and Visualizations
+
+### My Choice Software
+<img width="80" height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="power-bi"/><img width="70" height="60" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"><img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-office-2019.png" alt="microsoft-office-2019"/>
 
 <!--
 **OnomePresents/OnomePresents** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
