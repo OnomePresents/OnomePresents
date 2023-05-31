@@ -1,4 +1,5 @@
 ### <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9&height=280&section=header&animation=fadeIn&text=Hello%20there,%20Welcome!&fontSize=30" />
+- 🔭 I’m currently working on an analysis of the impact of tech on the Nigerian elections
 - 🌱 I’m currently learning advanced SQL and Python
 - 💬 Ask me about Data Analytics, Presentations and Visualizations
 
