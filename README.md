@@ -5,6 +5,10 @@
 ### My Choice Software
 <img width="80" height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="power-bi"/><img width="70" height="60" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"><img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-office-2019.png" alt="microsoft-office-2019"/>
 
+### How to reach me
+<a href="https://www.linkedin.com/in/onome-agbi/"> <img width="20" height="20" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"> </a>
+
+
 <!--
 **OnomePresents/OnomePresents** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
